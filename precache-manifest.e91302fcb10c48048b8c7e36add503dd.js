@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0f4d2a415dbf05bc12978bb06fdd1af4",
+    "revision": "73ea00859c684bcdaebbbbb593562c69",
     "url": "/invoicegenerator/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/invoicegenerator/static/css/2.0d77bc6e.chunk.css"
   },
   {
-    "revision": "faa7333a121f5ceb3ac5",
-    "url": "/invoicegenerator/static/css/main.8197ba3e.chunk.css"
+    "revision": "8ba1e40d235d74fa553e",
+    "url": "/invoicegenerator/static/css/main.84e82b8a.chunk.css"
   },
   {
     "revision": "ec286373cb6e24ccc986",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/invoicegenerator/static/js/2.22fd7ed0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "faa7333a121f5ceb3ac5",
+    "revision": "8ba1e40d235d74fa553e",
     "url": "/invoicegenerator/static/js/main.54f02e2d.chunk.js"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/invoicegenerator/static/js/runtime-main.bdbbbbd8.js"
   },
   {
-    "revision": "912a27dd4715b8b5d657112c2d5d6277",
-    "url": "/invoicegenerator/static/media/download-icon.912a27dd.svg"
+    "revision": "6bb715c7ae0e01edaec62792b7ed9690",
+    "url": "/invoicegenerator/static/media/download-icon.6bb715c7.svg"
   },
   {
     "revision": "15c01d9b81ceb6702aa92e3b5416ce50",
