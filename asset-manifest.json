@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/invoicegenerator/static/css/main.ee3169e7.chunk.css",
+    "main.css": "/invoicegenerator/static/css/main.fe81de0c.chunk.css",
     "main.js": "/invoicegenerator/static/js/main.fb20ecc4.chunk.js",
     "main.js.map": "/invoicegenerator/static/js/main.fb20ecc4.chunk.js.map",
     "runtime-main.js": "/invoicegenerator/static/js/runtime-main.bdbbbbd8.js",
@@ -9,10 +9,10 @@
     "static/js/2.22fd7ed0.chunk.js": "/invoicegenerator/static/js/2.22fd7ed0.chunk.js",
     "static/js/2.22fd7ed0.chunk.js.map": "/invoicegenerator/static/js/2.22fd7ed0.chunk.js.map",
     "index.html": "/invoicegenerator/index.html",
-    "precache-manifest.9f88afc8a649bf458e5c2ddf7a42c275.js": "/invoicegenerator/precache-manifest.9f88afc8a649bf458e5c2ddf7a42c275.js",
+    "precache-manifest.7d95af37bf2a83eebbed9705b8ee0840.js": "/invoicegenerator/precache-manifest.7d95af37bf2a83eebbed9705b8ee0840.js",
     "service-worker.js": "/invoicegenerator/service-worker.js",
     "static/css/2.0d77bc6e.chunk.css.map": "/invoicegenerator/static/css/2.0d77bc6e.chunk.css.map",
-    "static/css/main.ee3169e7.chunk.css.map": "/invoicegenerator/static/css/main.ee3169e7.chunk.css.map",
+    "static/css/main.fe81de0c.chunk.css.map": "/invoicegenerator/static/css/main.fe81de0c.chunk.css.map",
     "static/js/2.22fd7ed0.chunk.js.LICENSE.txt": "/invoicegenerator/static/js/2.22fd7ed0.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/invoicegenerator/static/media/resize.d4da359f.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.bdbbbbd8.js",
     "static/css/2.0d77bc6e.chunk.css",
     "static/js/2.22fd7ed0.chunk.js",
-    "static/css/main.ee3169e7.chunk.css",
+    "static/css/main.fe81de0c.chunk.css",
     "static/js/main.fb20ecc4.chunk.js"
   ]
 }
